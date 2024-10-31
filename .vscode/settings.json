@@ -1,0 +1,19 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "d:\\Espressif\\tools\\tools\\xtensa-esp32-elf\\esp-2021r2-patch3-8.4.0\\xtensa-esp32-elf\\bin;d:\\Espressif\\tools\\tools\\xtensa-esp32s2-elf\\esp-2021r2-patch3-8.4.0\\xtensa-esp32s2-elf\\bin;d:\\Espressif\\tools\\tools\\xtensa-esp32s3-elf\\esp-2021r2-patch3-8.4.0\\xtensa-esp32s3-elf\\bin;d:\\Espressif\\tools\\tools\\riscv32-esp-elf\\esp-2021r2-patch3-8.4.0\\riscv32-esp-elf\\bin;d:\\Espressif\\tools\\tools\\esp32ulp-elf\\2.28.51-esp-20191205\\esp32ulp-elf-binutils\\bin;d:\\Espressif\\tools\\tools\\esp32s2ulp-elf\\2.28.51-esp-20191205\\esp32s2ulp-elf-binutils\\bin;d:\\Espressif\\tools\\tools\\cmake\\3.16.4\\bin;d:\\Espressif\\tools\\tools\\openocd-esp32\\v0.11.0-esp32-20220706\\openocd-esp32\\bin;d:\\Espressif\\tools\\tools\\ninja\\1.10.2;d:\\Espressif\\tools\\tools\\idf-exe\\1.0.1;d:\\Espressif\\tools\\tools\\ccache\\3.7;d:\\Espressif\\tools\\tools\\dfu-util\\0.9\\dfu-util-0.9-win64",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "d:\\Espressif\\tools\\tools\\openocd-esp32\\v0.11.0-esp32-20220706/openocd-esp32/share/openocd/scripts",
+        "IDF_CCACHE_ENABLE": "1"
+    },
+    "idf.espIdfPathWin": "d:\\chandan\\v4.3.4\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.pythonBinPathWin": "d:\\Espressif\\tools\\python_env\\idf4.3_py3.8_env\\Scripts\\python.exe",
+    "idf.toolsPathWin": "d:\\Espressif\\tools",
+    "idf.portWin": "COM3",
+    "files.associations": {
+        "task.h": "c"
+    }
+}
